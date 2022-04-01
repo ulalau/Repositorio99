@@ -1,3 +1,4 @@
 import streamlit as st
 st.title("App de perritos")
-st.button("perrito favorito")
+st.button("click en los perrito favorito")
+st.balloons
